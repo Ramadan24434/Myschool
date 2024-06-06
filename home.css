@@ -1,0 +1,89 @@
+/* ###############Desktop################# */
+body{
+    background-color: white;
+}
+.flex{
+    display: flex;
+    margin-left: 100px;
+}
+p{
+    margin-top: 50px;
+    margin-left: -150px;
+    animation-timing-function: ease-in-out;
+}
+input{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+button{
+    height: 35px;
+    width: 100px;
+}
+.none{
+    float: right;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: blue;
+    text-decoration: none;
+}
+.box{
+    width: 1250px;
+    height: 80px;
+    border: 1px solid green;
+    margin-left: -2px;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+}
+.right{
+    margin-top: -5px;
+    margin-left: 300px;
+    margin-top: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover{
+    text-decoration: underline;
+}
+.left{
+    margin-top: -10px;
+    text-decoration: none;
+    margin-left: -20px;
+}
+.inline{
+    display: flex;
+}
+.border{
+    margin-left: 600px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.transition{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.kill{
+    width: 900px;
+    height: 100px;
+    border: 1px solid blue;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.ope{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.fff{
+    display: flex;
+}
+.gbg{
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.class{
+    font-size: 20px;
+}
+
